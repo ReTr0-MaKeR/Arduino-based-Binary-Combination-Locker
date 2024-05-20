@@ -11,7 +11,7 @@ const int numMasterSwitches = 4;
 const int keySwitchPins[] = {2, 3, 4, 5};
 const int numKeySwitches = 4;
 
-const int entrySwitchPin = 11;
+const int entrySwitchPin = 10;
 const int greenLedPin = 12;
 const int redLedPin = 13;
 
